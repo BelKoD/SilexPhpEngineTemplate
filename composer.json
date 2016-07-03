@@ -1,0 +1,14 @@
+{
+  "name": "litek/silex-php-engine",
+  "require": {
+    "symfony/templating": "~3.0"
+  },
+  "require-dev": {
+    "silex/silex": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SilexPhpEngine\\": "src/"
+    }
+  }
+}
