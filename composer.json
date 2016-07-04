@@ -1,5 +1,5 @@
 {
-  "name": "litek/silex-php-engine",
+  "name": "belkod/silex-php-engine",
   "require": {
     "symfony/templating": "~3.0"
   },
